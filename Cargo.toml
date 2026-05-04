@@ -1,0 +1,15 @@
+[workspace]
+members = [
+    "crates/x7q-format",
+    "crates/x7q-parser",
+    "crates/x7q-core",
+    "crates/x7q-cli",
+    "crates/x7q-secure",
+]
+resolver = "3"
+
+[workspace.package]
+edition = "2024"
+license = "AGPL-3.0-only"
+repository = "https://github.com/Umutburakrukcan-77"
+rust-version = "1.95"

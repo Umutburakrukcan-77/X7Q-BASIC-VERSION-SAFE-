@@ -1,4 +1,3 @@
-# X7Q-BASIC-VERSION-SAFE-
 # x7q
 
 `x7q` is a passive, text-only container format and CLI toolchain for moving text through PDF-like workflows without carrying PDF actions, scripts, embedded files, dynamic loading, or active document behavior.

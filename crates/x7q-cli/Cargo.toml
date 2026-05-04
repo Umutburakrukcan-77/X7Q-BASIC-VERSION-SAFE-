@@ -1,0 +1,15 @@
+[package]
+name = "x7q-cli"
+version = "0.1.0"
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+rust-version.workspace = true
+
+[[bin]]
+name = "x7q"
+path = "src/main.rs"
+
+[dependencies]
+x7q-core = { path = "../x7q-core" }
+

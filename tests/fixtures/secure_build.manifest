@@ -1,0 +1,2 @@
+output=secure_built.x7q
+section=0x01,0x00,secure_payload.bin
